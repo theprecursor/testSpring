@@ -1,0 +1,9 @@
+INSERT INTO MY_USER (EMAIL, PASSWORD)
+VALUES
+	('gravica.mauirs@google.com','XBU07NFJ9HN');
+INSERT INTO MY_USER (EMAIL, PASSWORD)
+VALUES
+	('id@google.com','EQU490ID5SH');
+INSERT INTO MY_USER (EMAIL, PASSWORD)
+VALUES
+	('consequat.dolor@aol.net','AJO25XHP1IL');
